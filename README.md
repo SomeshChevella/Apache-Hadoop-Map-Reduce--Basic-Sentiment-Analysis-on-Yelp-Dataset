@@ -1,3 +1,5 @@
+The ouput file int the directory contains the sorted expected output
+
 Description:
 In this project we will use Hadoop MapReduce to implement a very basic “Sentiment Analysis” using the review text in the Yelp Academic Dataset as training data. 
 
